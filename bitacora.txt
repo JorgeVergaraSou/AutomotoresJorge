@@ -1,0 +1,13 @@
+Se modifico el StockFUNCION ELIMINAR: Se elimino el vehiculo toyotaFUNCION INSERTAR: Se modifico el Stock 
+FUNCION INSERTAR: Se modifico el Stock 
+FUNCION INSERTAR: Se modifico el Stock SE AGREGO CHEVY 
+FUNCION CONSULTAR: Existe el vehiculo marca: toyota 
+FUNCION CONSULTAR: El vehiculo marca:  nissan no existe en la BD 
+FUNCION CONSULTAR: El vehiculo marca:  nissan no existe en la BD 
+FUNCION CONSULTAR: El vehiculo marca:  chevy no existe en la BD 
+FUNCION MODIFICAR: El Auto : chevy no se ha podido modificar a  nisato 
+FUNCION CONSULTAR: Existe el vehiculo marca: CHEVY 
+FUNCION MODIFICAR: El vehiculo marca:  CHEVY ahora cambio a  nisato 
+FUNCION CONSULTAR: Existe el vehiculo marca: CHEVY 
+FUNCION CONSULTAR: Existe el vehiculo marca: CHEVY 
+FUNCION CONSULTAR: Existe el vehiculo marca: CHEVY 
